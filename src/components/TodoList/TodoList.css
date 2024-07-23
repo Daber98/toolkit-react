@@ -1,0 +1,23 @@
+/* src/components/TodoList/TodoList.css */
+.todo-list {
+  margin: 16px;
+}
+
+.todo-input {
+  padding: 8px;
+  margin-right: 8px;
+}
+
+.add-button {
+  padding: 8px 16px;
+}
+
+.todo-items {
+  list-style: none;
+  padding: 0;
+}
+
+.todo-item {
+  padding: 8px 0;
+  border-bottom: 1px solid #ccc;
+}

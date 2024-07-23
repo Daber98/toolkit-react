@@ -1,0 +1,15 @@
+/* src/components/InfoCard/InfoCard.css */
+.info-card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.info-card-title {
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.info-card-content {
+  font-size: 16px;
+}
